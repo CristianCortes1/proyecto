@@ -1,8 +1,12 @@
-package com.mycompany.patrones;
+package ProyectoFinal;
 
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Scanner;
+/**
+ * @author Cristian Cortes
+ * @author David Chacon 
+ */
 
 public class VistaInscripcion {
 
