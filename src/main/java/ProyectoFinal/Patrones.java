@@ -1,5 +1,14 @@
 package ProyectoFinal;
 
+import ProyectoFinal.Controlador.DecoradorCostoLaboratorio;
+import ProyectoFinal.Controlador.DecoradorCostoBiblioteca;
+import ProyectoFinal.Controlador.ControlarInscripcion;
+import ProyectoFinal.Controlador.CalculadoraCostoInscripcion;
+import ProyectoFinal.Vista.VistaInscripcion;
+import ProyectoFinal.Modelo.Profesor;
+import ProyectoFinal.Modelo.Estudiante;
+import ProyectoFinal.Modelo.Observador;
+import ProyectoFinal.Modelo.ModeloInscripcion;
 import java.util.*;
 /**
  * @author Cristian Cortes

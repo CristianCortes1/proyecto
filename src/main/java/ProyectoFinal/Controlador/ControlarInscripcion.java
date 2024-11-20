@@ -1,5 +1,8 @@
 
-package ProyectoFinal;
+package ProyectoFinal.Controlador;
+
+import ProyectoFinal.Vista.VistaInscripcion;
+import ProyectoFinal.Modelo.ModeloInscripcion;
 
 /**
  * @author Cristian Cortes

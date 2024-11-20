@@ -1,4 +1,4 @@
-package ProyectoFinal;
+package ProyectoFinal.Controlador;
 
 /**
  * @author Cristian Cortes

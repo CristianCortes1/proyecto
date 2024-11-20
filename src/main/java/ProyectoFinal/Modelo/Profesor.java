@@ -1,28 +1,14 @@
-package ProyectoFinal;
+package ProyectoFinal.Modelo;
 
+import ProyectoFinal.Modelo.Observador;
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Cristian Cortes
- * @author David Chacon 
+ *
+ * @author PC
  */
-public class Estudiante implements Observador {
-    private String nombre;
-    private String correo;
-
-    public Estudiante(String nombre, String correo) {
-        this.nombre = nombre;
-        this.correo = correo;
-    }
-
-    @Override
-    public void actualizar(String mensaje) {
-        System.out.println("Estudiante " + nombre + " recibido: " + mensaje);
-    }
-}
-
-class Profesor {
+public class Profesor {
     private List<Observador> estudiantes = new ArrayList<>();
 
     public void agregarObservador(Observador estudiante) {

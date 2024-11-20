@@ -1,4 +1,4 @@
-package ProyectoFinal;
+package ProyectoFinal.Vista;
 
 import java.util.List;
 import java.util.ArrayList;

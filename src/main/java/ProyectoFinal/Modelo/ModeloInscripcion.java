@@ -1,5 +1,6 @@
-package ProyectoFinal;
+package ProyectoFinal.Modelo;
 
+import ProyectoFinal.Controlador.ConexionBaseDatos;
 import java.util.ArrayList;
 import java.util.List;
 

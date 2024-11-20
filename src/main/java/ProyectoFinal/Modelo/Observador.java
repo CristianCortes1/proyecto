@@ -1,4 +1,4 @@
-package ProyectoFinal;
+package ProyectoFinal.Modelo;
 
 /**
  * @author Cristian Cortes
