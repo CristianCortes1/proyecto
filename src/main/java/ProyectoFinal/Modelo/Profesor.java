@@ -1,6 +1,5 @@
 package ProyectoFinal.Modelo;
 
-import ProyectoFinal.Modelo.Observador;
 import java.util.ArrayList;
 import java.util.List;
 

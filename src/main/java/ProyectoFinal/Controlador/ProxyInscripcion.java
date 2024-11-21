@@ -4,8 +4,6 @@
  */
 package ProyectoFinal.Controlador;
 
-import ProyectoFinal.Controlador.Inscripcion;
-
 /**
  /**
  * @author Cristian Cortes

@@ -1,6 +1,5 @@
 package ProyectoFinal.Controlador;
 
-import ProyectoFinal.Controlador.CalculadoraCostoInscripcion;
 
 /**
  * @author Cristian Cortes

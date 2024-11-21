@@ -1,6 +1,6 @@
 package ProyectoFinal.Modelo;
 
-import ProyectoFinal.Modelo.Observador;
+
 
 
 /**
